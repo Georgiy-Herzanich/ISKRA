@@ -3,12 +3,12 @@
 export const site = {
   name: 'ISKRA',
   // Full public URL of the deployed site (no trailing slash). Used for SEO.
-  url: process.env.NEXT_PUBLIC_SITE_URL?.replace(/\/$/, '') || 'https://iskra.example.com',
+  url: process.env.NEXT_PUBLIC_SITE_URL?.replace(/\/$/, '') || 'https://iskra-sand.vercel.app',
   // Digits only, international format without "+" — used in wa.me links.
-  whatsapp: '380000000000',
+  whatsapp: '421950420745',
   // Human-readable phone for display.
-  phoneDisplay: '+380 00 000 00 00',
+  phoneDisplay: '+421 950 420 745',
   // tel: link value.
-  phoneHref: '+380000000000',
-  email: 'hello@example.com'
+  phoneHref: '+421950420745',
+  email: 'georgijherzanich@gmail.com'
 };
