@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "title": "ISKRA — Photo Restoration & Animation, Gift Videos",
+    "description": "We bring faded photographs back to life and turn family archives into memories you can feel again.",
+    "ogAlt": "ISKRA — photo restoration and animation"
+  },
+  "nav": {
+    "cta": "Order"
+  },
+  "hero": {
+    "kicker": "Restoration · Animation · Gift Videos",
+    "title": "Every photo is <em>someone's voice</em> still speaking",
+    "subtitle": "We bring faded photographs back to life and turn family archives into memories you can feel again.",
+    "scroll": "Scroll"
+  },
+  "statement": {
+    "text": "Time takes the colors, cracks erase the faces. <em>But memory deserves to live on.</em>"
+  },
+  "services": {
+    "label": "What we do",
+    "restore": {
+      "title": "We bring <em>faces</em> back from old photos",
+      "lead": "Scratches, creases, faded tones — we carefully restore the image and bring back its color, as if it were taken yesterday. Your old paper photo will live forever in digital form.",
+      "price1Name": "Restoration + colorization",
+      "price1Small": "one photo, ready in a few days",
+      "price1Val": "€10",
+      "price2Name": "Restoration + animation",
+      "price2Small": "the photo comes alive with subtle motion",
+      "price2Val": "€15",
+      "discountNote": "The more memories — the better the price:",
+      "photos": "photos"
+    },
+    "video": {
+      "title": "A gift that <em>moves the heart</em>",
+      "lead": "From your favorite photos we craft a moving video: the pictures come alive and flow into one another to music. It's a journey through memories your loved ones will replay again and again.",
+      "caption": "A memory comes alive"
+    },
+    "packs": {
+      "miniName": "Mini",
+      "miniPhotos": "up to 5 photos",
+      "miniDesc": "A gentle short clip for one precious moment.",
+      "familyName": "Family",
+      "familyPhotos": "up to 12 photos",
+      "familyBadge": "Best choice",
+      "familyDesc": "A whole family story — the most popular holiday gift.",
+      "largeName": "Large",
+      "largePhotos": "up to 25 photos",
+      "largeDesc": "A grand journey through the years — for anniversaries and special dates."
+    },
+    "includes": "Every video includes <b>photo animation, music, editing and smooth transitions</b> — a finished video ready to gift right away."
+  },
+  "steps": {
+    "label": "How it works",
+    "items": [
+      { "title": "Send your photos", "text": "Even damaged or blurry — we work with any of them." },
+      { "title": "We work our magic", "text": "We restore, animate and edit with heart and attention to detail." },
+      { "title": "Receive your memory", "text": "A finished result in digital form — to keep and gift forever." }
+    ]
+  },
+  "gallery": {
+    "label": "Before / After",
+    "before": "Before",
+    "after": "After",
+    "hint": "Drag the slider to compare before / after"
+  },
+  "reviews": {
+    "label": "Reviews",
+    "items": [
+      { "text": "I burst into tears seeing my grandmother young and in color. The photo was almost gone — now it looks like it was taken yesterday.", "author": "Olena", "city": "Kyiv" },
+      { "text": "The only surviving photo of my grandfather was damaged. They restored every detail of his face. Now it's framed on the wall.", "author": "Maria", "city": "Odesa" },
+      { "text": "I gave my parents a video memory for their anniversary. They watched it ten times in a row. The best gift in years.", "author": "Taras", "city": "Kharkiv" },
+      { "text": "I ordered a video for my mom's jubilee. When the photos came alive to music, everyone at the table cried. Thank you for the magic.", "author": "Andrii", "city": "Lviv" },
+      { "text": "Fast, careful and very high quality. They replied on WhatsApp within half an hour, the result exceeded expectations.", "author": "Iryna", "city": "Dnipro" },
+      { "text": "I didn't believe anything could be done with such an old photo. The result amazed the whole family.", "author": "Bohdan", "city": "Poltava" }
+    ]
+  },
+  "order": {
+    "title": "Bring back to life what matters <em>most</em>",
+    "subtitle": "The fastest way — message us on WhatsApp: we'll advise the best option and calculate the price right away. The first photo — with no obligation.",
+    "waTitle": "Message on WhatsApp",
+    "waSub": "We reply fast — usually within an hour",
+    "waMessage": "Hello! I'd like to learn about photo restoration",
+    "altSep": "or leave a request",
+    "form": {
+      "nameLabel": "Your name",
+      "namePlaceholder": "How should we address you",
+      "contactLabel": "Phone or email",
+      "contactPlaceholder": "Where to reach you",
+      "messageLabel": "A few words (optional)",
+      "messagePlaceholder": "What you're interested in",
+      "submit": "Leave a request",
+      "sending": "Sending…",
+      "note": "We'll get back to you within the day.",
+      "success": "Thank you! We'll get back to you shortly.",
+      "error": "Couldn't send. Please try again or message us on WhatsApp.",
+      "validation": "Please enter your name and contact so we can reply."
+    },
+    "contacts": {
+      "title": "Other ways",
+      "sub": "Whatever suits you.",
+      "phoneLabel": "Phone",
+      "emailLabel": "Email"
+    }
+  },
+  "footer": {
+    "tagline": "Photo restoration · Gift video memories",
+    "copyright": "© 2026 · Made with care for your memory"
+  },
+  "lang": {
+    "current": "EN",
+    "ua": "UA · Українська",
+    "en": "EN · English",
+    "sk": "SK · Slovenčina"
+  }
+}
