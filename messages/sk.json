@@ -2,6 +2,7 @@
   "meta": {
     "title": "ISKRA — Reštaurovanie a oživenie fotografií, darčekové videá",
     "description": "Vraciame do života vyblednuté fotografie a meníme rodinné archívy na spomienky, ktoré môžete znova precítiť.",
+    "keywords": "reštaurovanie fotografií, oživenie fotografií, kolorovanie čiernobielych fotografií, obnova starých fotografií, animácia fotografií, digitalizácia fotografií, darčekové video, spomienkové video",
     "ogAlt": "ISKRA — reštaurovanie a oživenie fotografií"
   },
   "nav": {
@@ -61,7 +62,11 @@
     "label": "Pred / Po",
     "before": "Pred",
     "after": "Po",
-    "hint": "Potiahnite posuvník a porovnajte pred / po"
+    "hint": "Potiahnite posuvník a porovnajte pred / po",
+    "beforeAlt": "Stará poškodená fotografia pred reštaurovaním",
+    "afterAlt": "Fotografia po reštaurovaní a kolorovaní",
+    "expand": "Otvoriť na celú obrazovku",
+    "close": "Zavrieť"
   },
   "reviews": {
     "label": "Recenzie",

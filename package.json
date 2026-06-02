@@ -10,6 +10,7 @@
     "set-webhook": "node scripts/set-webhook.mjs"
   },
   "dependencies": {
+    "image-size": "^1.2.1",
     "next": "^15.5.19",
     "next-intl": "^3.26.3",
     "react": "19.0.0",
