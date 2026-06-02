@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "title": "ISKRA — Reštaurovanie a oživenie fotografií, darčekové videá",
+    "description": "Vraciame do života vyblednuté fotografie a meníme rodinné archívy na spomienky, ktoré môžete znova precítiť.",
+    "ogAlt": "ISKRA — reštaurovanie a oživenie fotografií"
+  },
+  "nav": {
+    "cta": "Objednať"
+  },
+  "hero": {
+    "kicker": "Reštaurovanie · Oživenie · Darčekové videá",
+    "title": "Každá fotografia je <em>niečí hlas</em>, ktorý stále znie",
+    "subtitle": "Vraciame do života vyblednuté zábery a meníme rodinné archívy na spomienky, ktoré môžete znova precítiť.",
+    "scroll": "Posúvajte"
+  },
+  "statement": {
+    "text": "Čas berie farby, praskliny stierajú tváre. <em>No spomienky si zaslúžia žiť ďalej.</em>"
+  },
+  "services": {
+    "label": "Čo robíme",
+    "restore": {
+      "title": "Vraciame <em>tváre</em> zo starých fotografií",
+      "lead": "Škrabance, záhyby, vyblednuté tóny — citlivo obnovíme záber a vrátime mu farbu, akoby vznikol včera. Stará papierová fotografia zostane navždy v digitálnej podobe.",
+      "price1Name": "Reštaurovanie + kolorovanie",
+      "price1Small": "jedna fotografia, hotová za pár dní",
+      "price1Val": "10 €",
+      "price2Name": "Reštaurovanie + oživenie",
+      "price2Small": "fotografia ožije jemným pohybom",
+      "price2Val": "15 €",
+      "discountNote": "Čím viac spomienok — tým výhodnejšie:",
+      "photos": "fotiek"
+    },
+    "video": {
+      "title": "Darček, z ktorého <em>zovrie srdce</em>",
+      "lead": "Z obľúbených fotografií vytvoríme dojímavé video: fotky ožívajú a plynule sa striedajú v rytme hudby. Je to cesta spomienkami, ktorú si blízki budú púšťať znova a znova.",
+      "caption": "Spomienka ožíva"
+    },
+    "packs": {
+      "miniName": "Mini",
+      "miniPhotos": "do 5 fotiek",
+      "miniDesc": "Nežné krátke video pre jeden vzácny okamih.",
+      "familyName": "Rodinný",
+      "familyPhotos": "do 12 fotiek",
+      "familyBadge": "Najlepšia voľba",
+      "familyDesc": "Ucelený príbeh rodiny — najobľúbenejší darček na sviatky.",
+      "largeName": "Veľký",
+      "largePhotos": "do 25 fotiek",
+      "largeDesc": "Veľká cesta naprieč rokmi — pre jubileá a výnimočné dni."
+    },
+    "includes": "Každé video obsahuje <b>oživenie fotiek, hudbu, strih a plynulé prechody</b> — hotové video, ktoré môžete hneď darovať."
+  },
+  "steps": {
+    "label": "Ako to funguje",
+    "items": [
+      { "title": "Pošlete fotografie", "text": "Aj poškodené či rozmazané — pracujeme s akýmikoľvek." },
+      { "title": "Vytvoríme kúzlo", "text": "Obnovíme, oživíme a zostriháme s citom a dôrazom na detail." },
+      { "title": "Dostanete spomienku", "text": "Hotový výsledok v digitálnej podobe — na uchovanie a darovanie navždy." }
+    ]
+  },
+  "gallery": {
+    "label": "Pred / Po",
+    "before": "Pred",
+    "after": "Po",
+    "hint": "Potiahnite posuvník a porovnajte pred / po"
+  },
+  "reviews": {
+    "label": "Recenzie",
+    "items": [
+      { "text": "Rozplakala som sa, keď som videla babičku mladú a vo farbe. Fotka bola takmer zničená — a teraz vyzerá ako včera urobená.", "author": "Olena", "city": "Kyjev" },
+      { "text": "Jediná zachovaná fotka deduška bola poškodená. Vrátili každý detail tváre. Teraz visí zarámovaná na stene.", "author": "Maria", "city": "Odesa" },
+      { "text": "Daroval som rodičom video-spomienku k výročiu. Pozreli si ho asi desaťkrát po sebe. Najlepší darček za roky.", "author": "Taras", "city": "Charkov" },
+      { "text": "Objednal som video k maminmu jubileu. Keď fotky začali ožívať v rytme hudby — pri stole plakali všetci. Ďakujem za to kúzlo.", "author": "Andrij", "city": "Ľvov" },
+      { "text": "Rýchlo, citlivo a veľmi kvalitne. Odpovedali na WhatsApp do polhodiny, výsledok predčil očakávania.", "author": "Iryna", "city": "Dnipro" },
+      { "text": "Neveril som, že z takej starej fotky sa dá niečo urobiť. Výsledok ohúril celú rodinu.", "author": "Bohdan", "city": "Poltava" }
+    ]
+  },
+  "order": {
+    "title": "Vráťte do života to, čo je <em>najvzácnejšie</em>",
+    "subtitle": "Najrýchlejšie — napíšte nám na WhatsApp: poradíme najlepšiu možnosť a hneď vypočítame cenu. Prvá fotka — nezáväzne.",
+    "waTitle": "Napísať na WhatsApp",
+    "waSub": "Odpovedáme rýchlo — zvyčajne do hodiny",
+    "waMessage": "Dobrý deň! Chcem sa dozvedieť o reštaurovaní fotografií",
+    "altSep": "alebo zanechajte žiadosť",
+    "form": {
+      "nameLabel": "Vaše meno",
+      "namePlaceholder": "Ako vás máme oslovovať",
+      "contactLabel": "Telefón alebo e-mail",
+      "contactPlaceholder": "Kam vám máme odpovedať",
+      "messageLabel": "Pár slov (nepovinné)",
+      "messagePlaceholder": "Čo vás zaujíma",
+      "submit": "Zanechať žiadosť",
+      "sending": "Odosielame…",
+      "note": "Ozveme sa vám počas dňa.",
+      "success": "Ďakujeme! Čoskoro sa vám ozveme.",
+      "error": "Odoslanie zlyhalo. Skúste znova alebo nám napíšte na WhatsApp.",
+      "validation": "Uveďte meno a kontakt, aby sme vám mohli odpovedať."
+    },
+    "contacts": {
+      "title": "Ďalšie možnosti",
+      "sub": "Ako vám to vyhovuje.",
+      "phoneLabel": "Telefón",
+      "emailLabel": "E-mail"
+    }
+  },
+  "footer": {
+    "tagline": "Reštaurovanie fotografií · Darčekové video-spomienky",
+    "copyright": "© 2026 · Vytvorené s láskou k vašim spomienkam"
+  },
+  "lang": {
+    "current": "SK",
+    "ua": "UA · Українська",
+    "en": "EN · English",
+    "sk": "SK · Slovenčina"
+  }
+}
