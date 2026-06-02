@@ -2,6 +2,7 @@
   "meta": {
     "title": "ISKRA — Photo Restoration & Animation, Gift Videos",
     "description": "We bring faded photographs back to life and turn family archives into memories you can feel again.",
+    "keywords": "photo restoration, photo animation, colorization of black and white photos, old photo repair, photo digitization, memorial gift video, family memories video",
     "ogAlt": "ISKRA — photo restoration and animation"
   },
   "nav": {
@@ -61,7 +62,11 @@
     "label": "Before / After",
     "before": "Before",
     "after": "After",
-    "hint": "Drag the slider to compare before / after"
+    "hint": "Drag the slider to compare before / after",
+    "beforeAlt": "Old damaged photo before restoration",
+    "afterAlt": "Photo after restoration and colorization",
+    "expand": "Open fullscreen",
+    "close": "Close"
   },
   "reviews": {
     "label": "Reviews",

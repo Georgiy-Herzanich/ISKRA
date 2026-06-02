@@ -54,6 +54,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     metadataBase: new URL(site.url),
     title: t('title'),
     description: t('description'),
+    keywords: t('keywords'),
     applicationName: site.name,
     alternates: {
       canonical: pathFor(safeLocale),
@@ -71,13 +72,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       description: t('description'),
       url: pathFor(safeLocale),
       locale: ogLocaleMap[safeLocale],
-      images: [{ url: '/media/after.jpg', alt: t('ogAlt') }]
+      images: [{ url: '/og.jpg', width: 1413, height: 848, alt: t('ogAlt') }]
     },
     twitter: {
       card: 'summary_large_image',
       title: t('title'),
       description: t('description'),
-      images: ['/media/after.jpg']
+      images: ['/og.jpg']
     },
     robots: { index: true, follow: true }
   };

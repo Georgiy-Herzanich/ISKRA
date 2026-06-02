@@ -24,12 +24,12 @@ export default function Services() {
             <img
               className="ba-before"
               src="/media/before.jpg"
-              alt={tg('before')}
+              alt={tg('beforeAlt')}
             />
             <img
               className="ba-after"
               src="/media/after.jpg"
-              alt={tg('after')}
+              alt={tg('afterAlt')}
             />
             <div className="ba-tag tag-before">{tg('before')}</div>
             <div className="ba-tag tag-after">{tg('after')}</div>
@@ -73,6 +73,7 @@ export default function Services() {
           <video
             className="v-media"
             src="/media/memory.mp4"
+            aria-label={t('video.caption')}
             autoPlay
             muted
             loop

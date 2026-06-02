@@ -79,7 +79,7 @@ export default function Effects() {
       window.addEventListener('touchmove', onTouchMove, { passive: true });
       window.addEventListener('mouseup', onUp);
       window.addEventListener('touchend', onUp);
-      ba.style.setProperty('--pos', '50%');
+      ba.style.setProperty('--pos', '25%');
       cleanups.push(() => {
         ba.removeEventListener('mousedown', onDown);
         ba.removeEventListener('touchstart', onTouchStart);
@@ -99,7 +99,7 @@ export default function Effects() {
         p = Math.max(0, Math.min(100, p));
         card.style.setProperty('--pos', p + '%');
       };
-      card.style.setProperty('--pos', '50%');
+      card.style.setProperty('--pos', '25%');
       const onDown = (e: MouseEvent) => {
         dragging = true;
         setPos(e.clientX);
