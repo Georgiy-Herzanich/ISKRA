@@ -10,7 +10,7 @@
   },
   "hero": {
     "kicker": "Restoration · Animation · Gift Videos",
-    "title": "Every photo is <em>someone's voice</em> still speaking",
+    "title": "We bring your <em>old photos</em> back to life",
     "subtitle": "We bring faded photographs back to life and turn family archives into memories you can feel again.",
     "scroll": "Scroll"
   },
@@ -23,10 +23,10 @@
       "title": "We bring <em>faces</em> back from old photos",
       "lead": "Scratches, creases, faded tones — we carefully restore the image and bring back its color, as if it were taken yesterday. Your old paper photo will live forever in digital form.",
       "price1Name": "Restoration + colorization",
-      "price1Small": "one photo, ready in a few days",
+      "price1Small": "We fix damage and add natural color",
       "price1Val": "€10",
       "price2Name": "Restoration + animation",
-      "price2Small": "the photo comes alive with subtle motion",
+      "price2Small": "Same as above, plus a short animation video",
       "price2Val": "€15",
       "discountNote": "The more memories — the better the price:",
       "photos": "photos"
@@ -48,6 +48,7 @@
       "largePhotos": "up to 25 photos",
       "largeDesc": "A grand journey through the years — for anniversaries and special dates."
     },
+    "packsCue": "Below — prices for gift video",
     "includes": "Every video includes <b>photo animation, music, editing and smooth transitions</b> — a finished video ready to gift right away."
   },
   "steps": {
@@ -82,6 +83,7 @@
   "order": {
     "title": "Bring back to life what matters <em>most</em>",
     "subtitle": "The fastest way — message us on WhatsApp: we'll advise the best option and calculate the price right away. The first photo — with no obligation.",
+    "fabLabel": "Contact us",
     "waTitle": "Message on WhatsApp",
     "waSub": "We reply fast — usually within an hour",
     "waMessage": "Hello! I'd like to learn about photo restoration",

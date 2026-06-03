@@ -29,9 +29,9 @@ export default async function HomePage({ params }: Props) {
       <Header />
       <Hero />
       <Statement />
+      <Gallery />
       <Services />
       <Steps />
-      <Gallery />
       <Reviews />
       <OrderSection />
       <Footer />

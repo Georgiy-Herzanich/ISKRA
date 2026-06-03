@@ -1,11 +1,21 @@
 /* eslint-disable @next/next/no-img-element */
 import { useTranslations } from 'next-intl';
+import VideoPlayer from '@/components/VideoPlayer';
 
 const PILLS = [
   { range: '3–5', discount: '−10%' },
   { range: '6–10', discount: '−20%' },
   { range: '11+', discount: '−30%' }
 ];
+
+// Render a service name with any "+" highlighted in gold.
+function goldPlus(text: string) {
+  return text
+    .split('+')
+    .flatMap((part, i) =>
+      i === 0 ? [part] : [<span key={i} className="plus">+</span>, part]
+    );
+}
 
 export default function Services() {
   const t = useTranslations('services');
@@ -18,17 +28,17 @@ export default function Services() {
       </div>
 
       {/* Service 1: Restoration */}
-      <div className="service reveal">
+      <div className="service service-restore reveal">
         <div className="s-visual">
           <div className="ba" id="baSlider">
             <img
               className="ba-before"
-              src="/media/before.jpg"
+              src="/gallery/5-before.png"
               alt={tg('beforeAlt')}
             />
             <img
               className="ba-after"
-              src="/media/after.jpg"
+              src="/gallery/5-after.jpg"
               alt={tg('afterAlt')}
             />
             <div className="ba-tag tag-before">{tg('before')}</div>
@@ -43,14 +53,14 @@ export default function Services() {
           <div className="pricing-block">
             <div className="price-row">
               <div className="name">
-                {t('restore.price1Name')}
+                {goldPlus(t('restore.price1Name'))}
                 <small>{t('restore.price1Small')}</small>
               </div>
               <div className="val">{t('restore.price1Val')}</div>
             </div>
             <div className="price-row">
               <div className="name">
-                {t('restore.price2Name')}
+                {goldPlus(t('restore.price2Name'))}
                 <small>{t('restore.price2Small')}</small>
               </div>
               <div className="val">{t('restore.price2Val')}</div>
@@ -68,25 +78,17 @@ export default function Services() {
       </div>
 
       {/* Service 2: Gift videos */}
-      <div className="service reveal">
-        <div className="s-visual">
-          <video
-            className="v-media"
-            src="/media/memory.mp4"
-            aria-label={t('video.caption')}
-            autoPlay
-            muted
-            loop
-            playsInline
-          ></video>
-          <div className="v-overlay">
-            <div className="v-cap">{t('video.caption')}</div>
-          </div>
-        </div>
+      <div className="service service-video reveal">
+        <VideoPlayer src="/media/memory.mp4#t=0.5" label={t('video.caption')} />
         <div className="s-text">
           <h2>{t.rich('video.title', { em: (c) => <em>{c}</em> })}</h2>
           <p className="lead">{t('video.lead')}</p>
         </div>
+      </div>
+
+      {/* Cue: prices for gift video follow */}
+      <div className="packs-cue reveal">
+        <span>{t('packsCue')}</span>
       </div>
 
       {/* Video packages */}
