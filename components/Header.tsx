@@ -43,9 +43,9 @@ export default function Header() {
   return (
     <header>
       <nav className="nav">
-        <div className="brand">
+        <a href="#top" className="brand" aria-label="ISKRA — наверх">
           ISKRA<span>.</span>
-        </div>
+        </a>
         <div className="nav-right">
           <div className="lang-switch" id="langSwitch" ref={switchRef}>
             <button

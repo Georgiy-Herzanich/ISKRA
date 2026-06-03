@@ -10,7 +10,7 @@
   },
   "hero": {
     "kicker": "Reštaurovanie · Oživenie · Darčekové videá",
-    "title": "Každá fotografia je <em>niečí hlas</em>, ktorý stále znie",
+    "title": "Vrátime život vašim <em>starým fotografiám</em>",
     "subtitle": "Vraciame do života vyblednuté zábery a meníme rodinné archívy na spomienky, ktoré môžete znova precítiť.",
     "scroll": "Posúvajte"
   },
@@ -23,10 +23,10 @@
       "title": "Vraciame <em>tváre</em> zo starých fotografií",
       "lead": "Škrabance, záhyby, vyblednuté tóny — citlivo obnovíme záber a vrátime mu farbu, akoby vznikol včera. Stará papierová fotografia zostane navždy v digitálnej podobe.",
       "price1Name": "Reštaurovanie + kolorovanie",
-      "price1Small": "jedna fotografia, hotová za pár dní",
+      "price1Small": "Odstránime poškodenia a doplníme prirodzené farby",
       "price1Val": "10 €",
       "price2Name": "Reštaurovanie + oživenie",
-      "price2Small": "fotografia ožije jemným pohybom",
+      "price2Small": "To isté čo vyššie, plus krátke oživenie-video",
       "price2Val": "15 €",
       "discountNote": "Čím viac spomienok — tým výhodnejšie:",
       "photos": "fotiek"
@@ -48,6 +48,7 @@
       "largePhotos": "do 25 fotiek",
       "largeDesc": "Veľká cesta naprieč rokmi — pre jubileá a výnimočné dni."
     },
+    "packsCue": "Nižšie — ceny za darčekové video",
     "includes": "Každé video obsahuje <b>oživenie fotiek, hudbu, strih a plynulé prechody</b> — hotové video, ktoré môžete hneď darovať."
   },
   "steps": {
@@ -82,6 +83,7 @@
   "order": {
     "title": "Vráťte do života to, čo je <em>najvzácnejšie</em>",
     "subtitle": "Najrýchlejšie — napíšte nám na WhatsApp: poradíme najlepšiu možnosť a hneď vypočítame cenu. Prvá fotka — nezáväzne.",
+    "fabLabel": "Spojiť sa",
     "waTitle": "Napísať na WhatsApp",
     "waSub": "Odpovedáme rýchlo — zvyčajne do hodiny",
     "waMessage": "Dobrý deň! Chcem sa dozvedieť o reštaurovaní fotografií",
